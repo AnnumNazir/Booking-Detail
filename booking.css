@@ -72,7 +72,7 @@ float: left; margin-right: 2%;text-align: center;font-family: Arial, Helvetica, 
 }
 
 #logo { font-size: large; border: 0px solid black; width: 150px; border-radius: 25px 25px; text-align: center;
-    box-shadow: 0px 5px 5px black;text-shadow: 5px 8px 10px white;color:rgb(1, 1, 22);
+    box-shadow: 0px 5px 5px black;text-shadow: 5px 8px 10px rgb(28, 4, 66);color:white;
 
 }
 
