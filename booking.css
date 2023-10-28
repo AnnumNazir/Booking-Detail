@@ -1,0 +1,110 @@
+
+* {margin: 0%; padding: 0%; box-sizing: border-box;
+}
+
+h1 {text-align: left;margin-bottom: 2%; color: rgb(1, 8, 24); text-shadow: 0px 0px 5px rgb(3, 24, 70);}
+
+
+table, td, th {border: 1.5px solid black;border-collapse: collapse;font-weight: bold;}
+ 
+ td,th { height: 50px;width: 20px;padding: 10px;}
+
+ #main { width: 100%;
+    
+    }
+
+    .clear::after {content: "";
+        display: block;
+        clear: both;}
+
+
+
+.table {width:50%; height: 80%; box-shadow: 5px 5px 15px 3px black;float: left;margin-left: 0%;}
+
+
+
+ .SIDE {
+    border: 1PX SOLID blue; width: 15%; min-height: 400px; padding: 15px;background-color: rgb(30, 192, 221);
+float: left; margin-right: 2%;text-align: center;font-family: Arial, Helvetica, sans-serif;line-height: 35PX; color: blue;margin-bottom: 0px; }
+
+#book {color: red;
+
+}
+
+#book:hover {
+    color: aliceblue; background-color: rgb(155, 199, 243); color:black;
+}
+.hov:hover {color: aliceblue; background-color: rgb(155, 199, 243) ;color:black;
+
+}
+
+
+ .raw1 {background-color: rgb(3, 24, 70); color: white; }
+ .btn1{background-color: green; width: 90px;height: 35px; border-radius: 10px; border: none;
+
+ }
+ .btn2{background-color: red; width: 90px;height: 35px; border-radius: 10px;border: none;
+
+ }
+ .btn1:hover {color: aliceblue; background-color: black;}
+
+ .btn2:hover {color: aliceblue;  background-color: black;
+}
+.raw1>th{ border-color: aliceblue;}
+.raw2 { background-color: rgb(243, 239, 239);
+
+}
+.raw3 { background-color: rgb(243, 239, 239);
+    
+}
+
+.div1{ height: 80px;
+    width: 100%;
+    background-color:#727070;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    gap: 30px;
+    text-transform: uppercase;
+    margin-top: 0%;
+    color: white;
+    margin-bottom: 30PX;
+}
+
+#logo { font-size: large; border: 0px solid black; width: 150px; border-radius: 25px 25px; text-align: center;
+    box-shadow: 0px 5px 5px black;text-shadow: 5px 8px 10px white;color:rgb(1, 1, 22);
+
+}
+
+#search{width: 20%; height: 30px;display: flex; border: 1px black; outline: none;
+}
+
+
+nav .div1 p:hover{background-color: rgb(1, 1, 36);
+
+}
+
+#Main1 { width: 100%; background-color:#727070; display: flex;  color: white;font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.footerclear::after {content: ""; display: block;
+    clear: both;
+
+}
+.end { margin: 0%;padding:0px 5px; line-height: 40px;
+ 
+}
+.company { 
+    margin: 0%;line-height: 50px;  padding-left: 20%;
+}
+.icon{   margin: 0%;line-height: 50px; padding-left: 20%;
+
+}
+.btn { margin: 0%;line-height: 40px;  margin-top: 5%;width: 200px;
+}
+.btn3 { width: 250px; height: 50px; border-radius: 25px;font-size: large; color: green;
+
+}
+.btn3:hover {color: aliceblue;  background-color: black; }
+ 
